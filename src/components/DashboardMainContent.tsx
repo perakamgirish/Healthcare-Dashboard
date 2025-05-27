@@ -71,7 +71,7 @@ const SimpleAppointmentCard: React.FC<AppointmentCardProps> = ({
 const AnatomySection: React.FC = () => (
   <div className="anatomy-section">
     <div className="anatomy-illustration">
-      <img src="/assets/humanbody.webp" alt="Human Body" className="body-image" />
+      <img src="/src/assets/humanbody.webp" alt="Human Body" className="body-image" />
     </div>
     <div className="health-status-cards">
       {healthStatusData.map((status) => (
