@@ -1,8 +1,6 @@
 import React from "react";
 import {
   FiClock,
-  FiCalendar,
-  FiActivity,
   FiUser,
   FiHeart,
   FiActivity as FiPhysio,
